@@ -5,6 +5,9 @@ using System.Net;
 using System.Web.Http;
 using Couchbase;
 using Couchbase.Linq;
+using System.Boolean;
+using System.String;
+using System.Object;
 using try_cb_dotnet.Models;
 
 namespace try_cb_dotnet.Controllers
