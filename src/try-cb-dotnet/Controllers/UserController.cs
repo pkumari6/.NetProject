@@ -11,6 +11,7 @@ using Couchbase;
 using Couchbase.Core;
 using Couchbase.IO;
 using JWT;
+using System.Object;
 using try_cb_dotnet.Models;
 
 namespace try_cb_dotnet.Controllers
